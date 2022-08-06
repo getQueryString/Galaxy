@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Galaxy</string>
+    <string name="ipv4_6_address">IPv4/6 address</string>
+    <string name="check_ip">Check IP</string>
+    <string name="latency">Latency:</string>
+    <string name="ip_address">IP address:</string>
+    <string name="hostname">Hostname:</string>
+    <string name="organisation">Organisation:</string>
+    <string name="location">Location:</string>
+    <string name="long_latitude">Long-, Latitude:</string>
+    <string name="reset">Reset</string>
+    <string name="app_version">By getQueryString © 2021–2022 - Version: 1.2.2</string>
+    <string name="play_music">Play music</string>
+    <string name="filewriter">FileWriter</string>
+    <string name="checkbox">Copy</string>
+</resources>
